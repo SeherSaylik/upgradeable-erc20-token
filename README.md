@@ -33,6 +33,7 @@ The purpose of this work is to update the contracts folder with the first contra
 
 
 - When deploying the first contract, configure the token information in the 1_initial_deploy.js file according to your own wishes. 
+- ![image](https://user-images.githubusercontent.com/73213970/113118456-273b4c00-9218-11eb-9b5d-48a5a0174ee1.png)
 
 
 
